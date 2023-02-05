@@ -1,4 +1,4 @@
-![Google Translate Logo](text-to-video.png)
+![Google Translate Logo](ic-text-to-video.png)
 
 
 [![MIT 
