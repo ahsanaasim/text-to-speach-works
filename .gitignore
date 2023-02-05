@@ -1,6 +1,6 @@
 *.mp3
 *.mp4
-*.png
+images/*.png
 *.wav
 .DS_Store
 
